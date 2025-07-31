@@ -1,0 +1,15 @@
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\bin\Debug\net8.0\Database.dll
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\bin\Debug\net8.0\Database.pdb
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\Rahul\CaseStudy\BusinessLogic\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

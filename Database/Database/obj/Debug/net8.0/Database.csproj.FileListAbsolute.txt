@@ -1,0 +1,14 @@
+D:\Rahul\CaseStudy\Database\Database\bin\Debug\net8.0\Database.deps.json
+D:\Rahul\CaseStudy\Database\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\Rahul\CaseStudy\Database\Database\bin\Debug\net8.0\Database.dll
+D:\Rahul\CaseStudy\Database\Database\bin\Debug\net8.0\Database.pdb
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.dll
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\refint\Database.dll
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.pdb
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\Rahul\CaseStudy\Database\Database\obj\Debug\net8.0\ref\Database.dll
